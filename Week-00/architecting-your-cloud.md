@@ -121,3 +121,9 @@ A robust cloud architecture is built on several key pillars:
 6. **Sustainability**
    - Reduces the environmental impact of workloads.
    - Includes strategies like consolidating resources, optimizing energy efficiency, and using renewable energy sources.
+
+## Creating an Architecture Diagram
+
+This is a very basic architecture for a full stack app. This was created using [Lucidchart](https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwj30fzB9aKKAxXmdEcBHYF7LyEYABAAGgJxdQ&co=1&gclid=Cj0KCQiAsOq6BhDuARIsAGQ4-zjMtTJ7Hf3M-tZPAYqQbp8LN6gZzszUDV6E7VgrDcaAlaN-FRsAM_gaAon3EALw_wcB&ohost=www.google.com&cid=CAESVuD2j1ljDxX9t9-_BfFl9YiB9TxprVJGsH7pD5RqgcPKpggjGnJchg91_HLBpb1IUs7NHNC6Zsf8fcpaRA_IDr0T7YTkuuKpJvYjlUreEy9fUVjsc7hu&sig=AOD64_2aHx6McFmWmpOaYuzLP3uwMdJsqQ&q&adurl&ved=2ahUKEwiNufbB9aKKAxULv4kEHbWYN8QQ0Qx6BAgMEAE).
+
+![Basic Architecture Diagram](./images/03.png)
