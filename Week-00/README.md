@@ -19,3 +19,4 @@ Understanding this trade-off helps set realistic expectations and guides decisio
 ## Table of Contents
 
 1. [Architecting your cloud](./architecting-your-cloud.md)
+2. [# Introduction to Amazon Web Services (AWS)](./aws-intro.md)
