@@ -20,3 +20,5 @@ Understanding this trade-off helps set realistic expectations and guides decisio
 
 1. [Architecting your cloud](./architecting-your-cloud.md)
 2. [Introduction to Amazon Web Services (AWS)](./aws-intro.md)
+3. [AWS Pricing Basics](./pricing-basics.md)
+4. [AWS Organizations & AWS IAM](./orgs-and-iam.md)
