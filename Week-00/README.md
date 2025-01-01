@@ -22,3 +22,5 @@ Understanding this trade-off helps set realistic expectations and guides decisio
 2. [Introduction to Amazon Web Services (AWS)](./aws-intro.md)
 3. [AWS Pricing Basics](./pricing-basics.md)
 4. [AWS Organizations & AWS IAM](./orgs-and-iam.md)
+5. [Scrubbing Github History of Sensitive Data](./scrubbing_gh_secrets.md)
+6. [AWS Architecture Icons Deck](./AWS-Architecture-Icons.pdf)
