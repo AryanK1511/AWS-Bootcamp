@@ -1,10 +1,11 @@
 # AWS Bootcamp
 
-A collection of all the code snippets and notes that I wrote during my AWS journey.
+A collection of all the code snippets and notes that I wrote during my AWS journey. Check out the [cruddur](https://github.com/AryanK1511/cruddur-aws-bootcamp) Web App that we built throughout this bootcamp.
 
 ## Table of Contents
 
 1. [Week 0](./Week-00/)
+2. [Week 1](./Week-01/)
 
 ## Extras
 
